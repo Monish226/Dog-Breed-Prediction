@@ -12,7 +12,7 @@ main_directory = 'dog-breeds'
 # Define the input image size.
 input_size = (128, 128)
 
-# Load and preprocess the dataset
+# Load and preprocess the dataset.
 def load_dataset(dataset_dir):
     X = []  # Features
     y = []  # Corresponding labels (breeds)
