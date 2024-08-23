@@ -15,3 +15,5 @@ This dataset can be used for various purposes, including but not limited to:
 - Training convolutional neural networks (CNNs) for dog breed classification.
 - Evaluating the performance of different machine learning models on dog breed prediction tasks.
 - Experimenting with transfer learning techniques using pre-trained models like CNN, KNN, RF, SVM, DT.
+## DATASET LINK
+- https://www.dropbox.com/scl/fi/07ot4h9zzhzc6f2ugcvkf/archive.zip?rlkey=8fundwycq0vo2v4a9ervt93gc&dl=0
