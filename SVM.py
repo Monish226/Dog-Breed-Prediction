@@ -45,7 +45,7 @@ X, y = load_dataset(main_directory)
 # Create and train the SVM classifier
 svm_classifier = SVC(C=svm_C)
 
-# Perform cross-validation to get multiple accuracy values
+# Perform cross-validation to get multiple accuracy values.
 cv_scores = cross_val_score(svm_classifier, X, y, cv=10)  # You can adjust the number of folds (e.g., cv=5)
 
 # Print the accuracy for each fold
