@@ -1,14 +1,15 @@
 # 🐶 Dog Breed Prediction
 
-Welcome to the **Dog Breed Prediction** project! This repository contains scripts, data, and models to classify dog breeds using machine learning techniques. The project leverages a dataset of dog images and breed labels to train a deep learning model capable of accurately identifying the breed of a dog from an image.
+Welcome to the **Dog Breed Prediction** project! This repository contains scripts, data, and models to classify dog breeds using machine learning techniques. The project leverages a dataset of dog images and breed labels to train a Machine learning model capable of accurately identifying the breed of a dog from an image.
 
-![Dog Breeds](https://example.com/dog-breeds-image.jpg) <!-- You can replace the link with an actual image URL -->
+![Dog Breeds](![IMG_20240824_194111_596](https://github.com/user-attachments/assets/501a63ed-825f-44cf-8611-49c140be3ea7)
+) 
 
 ---
 
 ## 🚀 Project Overview
 
-This project walks through the entire process of building a deep learning model to classify dog breeds from images. The key steps include data preparation, model building, training, and evaluation.
+This project walks through the entire process of building a Machine learning model to classify dog breeds from images. The key steps include data preparation, model building, training, and evaluation.
 
 ---
 
@@ -16,7 +17,7 @@ This project walks through the entire process of building a deep learning model 
 
 1. **Load the Dataset**  
    Download the dataset from Kaggle.  
-   **IMPORTANT**: Download the dataset from [here](https://kaggle.com/dataset-link).  
+   **IMPORTANT**: Download the dataset from [here](https://www.dropbox.com/scl/fi/07ot4h9zzhzc6f2ugcvkf/archive.zip?rlkey=8fundwycq0vo2v4a9ervt93gc&dl=0).  
    **Size**: 750MB
 
 2. **Load Labels**  
@@ -35,7 +36,7 @@ This project walks through the entire process of building a deep learning model 
    Verify the shape and size of the input data (`X`) and labels (`Y`) to ensure they are correctly formatted.
 
 7. **Build the Model Architecture**  
-   Design the neural network architecture using popular deep learning frameworks.
+   Design the Convolutional neural network architecture using popular Machine learning frameworks.
 
 8. **Train the Model**  
    Split the data into training and validation sets, and fit the model to the data. Track accuracy and loss metrics during training.
@@ -54,7 +55,5 @@ This project walks through the entire process of building a deep learning model 
   Make sure Python 2.7 is installed on your system.
 
 - **Dependencies**  
-  Install the required Python libraries using the following command:
-  ```bash
-  pip install -r requirements.txt
+  Install the required Python libraries.
 
