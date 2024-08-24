@@ -64,12 +64,22 @@ Our model is designed to achieve high accuracy in predicting dog breeds. Below i
 **Algorithm Comparison**
 We evaluated five different machine learning algorithms:
 
-Convolutional Neural Network (CNN): Achieved an impressive accuracy of 97.08%, making it the top performer.
+Convolutional Neural Network (CNN): Achieved an impressive accuracy of 97.8150%, making it the top performer.
 Support Vector Machine (SVM)
 Decision Tree
 Random Forest
 K-Nearest Neighbors (KNN)
 Among these, the CNN outperformed the others in terms of accuracy, demonstrating its effectiveness in handling complex image classification tasks.
+
+## 📊 Results
+**Accuracy Details**
+| Algorithm | Accuracy |
+| ------ | ------ |
+| Convolutional Neural Network (CNN) | 97.8150% |
+| Support Vector Machine (SVM) |  79.6680 |
+| Decision Tree | 78.3800% |
+| Random Forest | 80.5990  |
+| K-Nearest Neighbors (KNN) | 78.9230% |
 
 ## 📈 Future Work
 Model Optimization: Continue to fine-tune the CNN model to push the accuracy even higher.
@@ -83,12 +93,4 @@ We welcome contributions! Please fork this repository and submit a pull request 
 
 Thank you for checking out this project! If you have any questions or suggestions, feel free to open an issue or reach out.
 
-## 📊 Results
-Accuracy Details
-Algorithm	Accuracy
-Convolutional Neural Network (CNN)	97.08%
-Support Vector Machine (SVM)	TBD
-Decision Tree	TBD
-Random Forest	TBD
-K-Nearest Neighbors (KNN)	TBD
-Update this table with actual results.
+
