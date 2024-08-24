@@ -2,8 +2,8 @@
 
 Welcome to the **Dog Breed Prediction** project! This repository contains scripts, data, and models to classify dog breeds using machine learning techniques. The project leverages a dataset of dog images and breed labels to train a Machine learning model capable of accurately identifying the breed of a dog from an image.
 
-![Dog Breeds](![IMG_20240824_194111_596](https://github.com/user-attachments/assets/501a63ed-825f-44cf-8611-49c140be3ea7)
-) 
+![IMG_20240824_194111_596](https://github.com/user-attachments/assets/43630503-ed85-4f98-86b4-cbceea4b2162)
+
 
 ---
 
