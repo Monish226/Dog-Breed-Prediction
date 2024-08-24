@@ -2,7 +2,7 @@
 
 Welcome to the **Dog Breed Prediction** project! This repository contains scripts, data, and models to classify dog breeds using machine learning techniques. The project leverages a dataset of dog images and breed labels to train a Machine learning model capable of accurately identifying the breed of a dog from an image.
 <p align="center">
-<img src ="https://github.com/Monish226/Dog-Breed-Prediction/blob/master/Dataset/asst.jpg" width="390" height="390" >
+<img src ="https://github.com/Monish226/Dog-Breed-Prediction/blob/master/Dataset/asst.jpg" width="400" height="400" >
 </p>
 
 ---
@@ -53,16 +53,12 @@ This project walks through the entire process of building a Machine learning mod
 
 - **Python 2.7**  
   Make sure Python 2.7 is installed on your system.
-
 - **Dependencies**  
   Install the required Python libraries.
 
-## 🤖 Model Performance
-Our model is designed to achieve high accuracy in predicting dog breeds. Below is an example of the confusion matrix generated from the model’s predictions:
-
 
 **Algorithm Comparison**
-We evaluated five different machine learning algorithms:
+We evaluated five different 🤖 machine learning algorithms:
 
 Convolutional Neural Network (CNN): Achieved an impressive accuracy of 97.8150%, making it the top performer.
 Support Vector Machine (SVM)
@@ -72,8 +68,8 @@ K-Nearest Neighbors (KNN)
 Among these, the CNN outperformed the others in terms of accuracy, demonstrating its effectiveness in handling complex image classification tasks.
 
 ## 📊 Results
-<p align="center">
 **Accuracy Details**
+         
 | Algorithm | Accuracy |
 | ------ | ------ |
 | Convolutional Neural Network (CNN) | 97.8150% |
@@ -81,18 +77,35 @@ Among these, the CNN outperformed the others in terms of accuracy, demonstrating
 | Decision Tree | 78.3800% |
 | Random Forest | 80.5990  |
 | K-Nearest Neighbors (KNN) | 78.9230% |
-</p>
+
 
 ## 📈 Future Work
 Model Optimization: Continue to fine-tune the CNN model to push the accuracy even higher.
 More Data: Incorporate additional dog breed images to enhance the model’s capabilities.
 Deployment: Develop a web app that allows users to upload images and receive breed predictions in real-time.
 ## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+This project is licensed under the MIT License. 
+
+### MIT License Summary
+
+The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT). It is a simple and easy-to-understand license that places very few restrictions on reuse, making it a popular choice for open-source projects.
+
+Key Points:
+- **Freedom to Use**: You can use the software for any purpose.
+- **Freedom to Modify**: You can modify the software and use it as a base for other projects.
+- **Freedom to Distribute**: You can distribute the original or modified software to others.
+- **No Warranty**: The software is provided "as is", without warranty of any kind.
+
+For the full text of the MIT License, please see the `LICENSE` file in this repository.
 
 ## 👨‍💻 Contributing
 We welcome contributions! Please fork this repository and submit a pull request with your changes.
 
-Thank you for checking out this project! If you have any questions or suggestions, feel free to open an issue or reach out.
+<p align="center">
+<img src="https://github.com/Monish226/Dog-Breed-Prediction/blob/master/Dataset/title.jpg" width="400" height="400">
+</p>
 
+Thank you for checking out this project! If you have any questions or suggestions, feel free to open an issue or reach out.
+##🐕✨ Happy Coding!!.
 
