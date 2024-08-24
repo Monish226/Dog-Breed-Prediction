@@ -1,6 +1,6 @@
 # 🐶 Dog Breed Prediction
 
-Welcome to the **Dog Breed Prediction** project! This repository contains scripts, data, and models to classify dog breeds using machine learning techniques. The project leverages a dataset of dog images and breed labels to train a Machine learning model capable of accurately identifying the breed of a dog from an image.
+Welcome to the **Dog Breed Prediction** project! This repository contains scripts, data, and models to classify dog breeds using `machine learning` techniques. The project leverages a dataset of `dog images` and breed labels to train a Machine learning model capable of accurately identifying the breed of a dog from an image.
 <p align="center">
 <img src ="https://github.com/Monish226/Dog-Breed-Prediction/blob/master/Dataset/asst.jpg" width="400" height="400" >
 </p>
@@ -19,32 +19,33 @@ This project walks through the entire process of building a Machine learning mod
    Download the dataset from Kaggle.  
    **IMPORTANT**: Download the dataset from [here](https://www.dropbox.com/scl/fi/07ot4h9zzhzc6f2ugcvkf/archive.zip?rlkey=8fundwycq0vo2v4a9ervt93gc&dl=0).  
    **Size**: 750MB
+   **Images**:10000
 
-2. **Load Labels**  
+3. **Load Labels**  
    Load the breed labels from the CSV file, which contains the image ID and corresponding breed.
 
-3. **Check Breed Count**  
+4. **Check Breed Count**  
    Analyze the distribution of breeds in the dataset to understand the data balance.
 
-4. **One-Hot Encoding on Labels**  
+5. **One-Hot Encoding on Labels**  
    Apply one-hot encoding to the labels to convert breed names into a format suitable for model training.
 
-5. **Load and Preprocess Images**  
+6. **Load and Preprocess Images**  
    Load the images, convert them into arrays, and normalize them to ensure consistency in model input.
 
-6. **Check Data Shape and Size**  
+7. **Check Data Shape and Size**  
    Verify the shape and size of the input data (`X`) and labels (`Y`) to ensure they are correctly formatted.
 
-7. **Build the Model Architecture**  
+8. **Build the Model Architecture**  
    Design the Convolutional neural network architecture using popular Machine learning frameworks.
 
-8. **Train the Model**  
+9. **Train the Model**  
    Split the data into training and validation sets, and fit the model to the data. Track accuracy and loss metrics during training.
 
-9. **Evaluate the Model**  
+10. **Evaluate the Model**  
    Assess the model's performance on the validation set by calculating the accuracy score.
 
-10. **Predict Using the Model**  
+11. **Predict Using the Model**  
     Use the trained model to predict the breed of new dog images and evaluate its performance on unseen data.
 
 ---
@@ -52,7 +53,7 @@ This project walks through the entire process of building a Machine learning mod
 ## 🔧 Prerequisites
 
 - **Python 2.7**  
-  Make sure Python 2.7 is installed on your system.
+  Make sure `Python 2.7` is installed on your system.
 - **Dependencies**  
   Install the required Python libraries.
 
@@ -60,11 +61,11 @@ This project walks through the entire process of building a Machine learning mod
 **Algorithm Comparison**
 We evaluated five different 🤖 machine learning algorithms:
 
-Convolutional Neural Network (CNN): Achieved an impressive accuracy of 97.8150%, making it the top performer.
-Support Vector Machine (SVM)
-Decision Tree
-Random Forest
-K-Nearest Neighbors (KNN)
+`Convolutional Neural Network (CNN)`: Achieved an impressive accuracy of `97.8150%`, making it the top performer.
+`Support Vector Machine (SVM)`
+`Decision Tree`
+`Random Forest`
+`K-Nearest Neighbors (KNN)`
 Among these, the CNN outperformed the others in terms of accuracy, demonstrating its effectiveness in handling complex image classification tasks.
 
 ## 📊 Results
@@ -73,9 +74,9 @@ Among these, the CNN outperformed the others in terms of accuracy, demonstrating
 | Algorithm | Accuracy |
 | ------ | ------ |
 | Convolutional Neural Network (CNN) | 97.8150% |
-| Support Vector Machine (SVM) |  79.6680 |
+| Support Vector Machine (SVM) |  79.6680% |
 | Decision Tree | 78.3800% |
-| Random Forest | 80.5990  |
+| Random Forest | 80.5990%  |
 | K-Nearest Neighbors (KNN) | 78.9230% |
 
 
@@ -107,5 +108,5 @@ We welcome contributions! Please fork this repository and submit a pull request 
 </p>
 
 Thank you for checking out this project! If you have any questions or suggestions, feel free to open an issue or reach out.
-##🐕✨ Happy Coding!!.
+## 🐕✨ Happy Coding!!.
 
