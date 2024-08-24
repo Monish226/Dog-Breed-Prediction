@@ -72,6 +72,7 @@ K-Nearest Neighbors (KNN)
 Among these, the CNN outperformed the others in terms of accuracy, demonstrating its effectiveness in handling complex image classification tasks.
 
 ## 📊 Results
+<p align="center">
 **Accuracy Details**
 | Algorithm | Accuracy |
 | ------ | ------ |
@@ -80,6 +81,7 @@ Among these, the CNN outperformed the others in terms of accuracy, demonstrating
 | Decision Tree | 78.3800% |
 | Random Forest | 80.5990  |
 | K-Nearest Neighbors (KNN) | 78.9230% |
+</p>
 
 ## 📈 Future Work
 Model Optimization: Continue to fine-tune the CNN model to push the accuracy even higher.
