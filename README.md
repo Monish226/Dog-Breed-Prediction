@@ -61,12 +61,12 @@ This project walks through the entire process of building a Machine learning mod
 **Algorithm Comparison**
 We evaluated five different 🤖 machine learning algorithms:
 
-`Convolutional Neural Network (CNN)`: Achieved an impressive accuracy of `97.8150%`, making it the top performer.
-`Support Vector Machine (SVM)`
-`Decision Tree`
-`Random Forest`
-`K-Nearest Neighbors (KNN)`
-Among these, the CNN outperformed the others in terms of accuracy, demonstrating its effectiveness in handling complex image classification tasks.
+ `Convolutional Neural Network (CNN)`: Achieved an impressive accuracy of `97.8150%`, making it the top performer.
+ `Support Vector Machine (SVM)`
+ `Decision Tree`
+ `Random Forest`
+ `K-Nearest Neighbors (KNN)`
+ Among these, the CNN outperformed the others in terms of accuracy, demonstrating its effectiveness in handling complex image classification tasks.
 
 ## 📊 Results
 **Accuracy Details**
